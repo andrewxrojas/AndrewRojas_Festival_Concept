@@ -28,13 +28,9 @@
  
  /* ---------------------- typography */
  
- h1 {
+ h1, h4 {
     font-size: 4em;
-    font-family: "degular", sans-serif;
-    font-weight: 600;
-    font-style: normal;
-    color:#ffffff;
-    text-align: center;
+    -webkit-text-stroke: .5px white;
  }
  
  /* h2 {
@@ -114,8 +110,9 @@
  }
 
  li {
-   display: inline-block;
+   display: inline-block;   
  }
+
  a:hover {
     color: rgb(255, 31, 146);
  }
@@ -133,18 +130,16 @@
     flex-direction:row;
     flex-wrap: wrap;
     justify-content: 
-    center;
+    space-between;
  
  }
  
- .child {
-    /* flex-basis: 45%; */
-    /* margin-left: 20%; */
-    padding: 2%;
+ .event {
+    flex-basis: 45%;
     margin-top: 5%;
     background-color: rgb(32, 49, 83);
     border: 2px solid #203153;      
-    width: 50%; /*this will give 30% of the parents 90% */
+    width: 30%; /*this will give 30% of the parents 90% */
     position: relative;/*sets the bench that there are things in this container that we want to move / will only move something in relationship to it */
  }
  
@@ -154,10 +149,10 @@
  
  
  #logo {
-    height: 9%;
+    height: 2.3%;
     width: 10%;  /*resizes the chat button to 10% width*/
     position: absolute; /* since chat lives in body it has to have an absolute position /since body has relative position*/
-    bottom: 89.4%;/* adds 0% to bottom*/
+    bottom:97.3%;/* adds 0% to bottom*/
     left: 2%;
     /* width:100%; *//* 100% width*/
     
@@ -175,9 +170,8 @@
     font-family: "degular", sans-serif;
     font-weight: 500;
     font-style: normal;
-
     padding: 2.5%;
-    bottom: -20%;
+    bottom: -10%;
     width: 100%;
     position: absolute; /*because it lives within the body so the body gets a relative position*/
 
@@ -212,7 +206,8 @@
 
      li {
       display: block;
-     }
+    }     
+
     /* .topnav a {
         display: block;
         width: 100%;
@@ -226,9 +221,9 @@
     
     }
  
-    .child{
+    .event{
         margin-top: 5%;
-        /* flex-basis: 100%; */
+        flex-basis: 100%;
        width: 100%; /*this will give the child 100% width once it drops below 800px*/
     }
  
@@ -245,14 +240,14 @@
 
     #logo {
         width: 20%;
-        height: 5.7%;
+        height: 1.2%;
         position: absolute; /* since chat lives in body it has to have an absolute position /since body has relative position*/
-        top: 2.5%;
+        top: 0.48%;
         left: 2%; 
     }
 
     footer {
-        bottom: -27%;
+        bottom: -6%;
         width: 100%;
         font-size: 1.1em;
         display: block;
