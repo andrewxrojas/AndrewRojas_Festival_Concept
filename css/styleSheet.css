@@ -154,10 +154,10 @@
  
  
  #logo {
-    height: 9%;
+    height: 8.4%;
     width: 10%;  /*resizes the chat button to 10% width*/
     position: absolute; /* since chat lives in body it has to have an absolute position /since body has relative position*/
-    bottom: 89.4%;/* adds 0% to bottom*/
+    bottom: 90.3%;/* adds 0% to bottom*/
     left: 2%;
     /* width:100%; *//* 100% width*/
     
@@ -247,7 +247,7 @@
         width: 20%;
         height: 5.7%;
         position: absolute; /* since chat lives in body it has to have an absolute position /since body has relative position*/
-        top: 2.5%;
+        top: 2.2%;
         left: 2%; 
     }
 
