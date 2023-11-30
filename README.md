@@ -15,7 +15,7 @@ Love Lift Thrive unfolds in the vibrant heart of Oakland, symbolizing our commit
 ### Figma Wireframe Link
 <img src="development/WireFrame.png" align="center" style="height: 600px; width: 900px"/> 
 <img src="development/EventPosters.png" align="center" style="height: 600px; width: 900px"/>   
-<img src="development/Merchandise_Figma.png.png" align="center" style="height: 600px; width: 900px"/>       
+<img src="development/Merchandise_Figma.png" align="center" style="height: 600px; width: 900px"/>       
 
 [Figma Wireframe Link](https://www.figma.com/file/ONe25HoONoGTNVPneH01bS/Untitled?type=design&node-id=0%3A1&mode=design&t=IfXSeqP9UH2ypvZZ-1)
 
