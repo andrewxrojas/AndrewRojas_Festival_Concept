@@ -1,19 +1,21 @@
 
 # Project 3: Festival Concept Development
-##### November 16, 2023
+##### November 27, 2023
 By Andrew Rojas 
 
-# Project overview 
+# Project Overview 
 In the importance of Project Love Lift Thrive, we embark on a mission that transcends the ordinary and resonates with the heart of the LGBTQ+ community. At its core, this transformative initiative is a beacon of support for individuals facing adversity, particularly those grappling with homelessness and financial instability. Love Lift Thrive is not merely an event; it's a testament to our commitment to fostering inclusivity, providing essential services, and lifting our community to new heights.
 
-Who are we empowering? Love Lift Thrive is dedicated to individuals in the LGBTQ+ community, navigating circumstances where basic needs, such as food, become unaffordable or inaccessible. The 'what' encompasses a multifaceted approach, offering crucial wellness services like STD/STI screening, preventative medications, and safer sex resources. Moreover, mental health support, especially vital for the low-income LGBTQ+ community, is woven into the fabric of this project.
+Love Lift Thrive is dedicated to individuals in the LGBTQ+ community, navigating circumstances where basic needs, such as food, become unaffordable or inaccessible. The 'what' encompasses a multifaceted approach, offering crucial wellness services like STD/STI screening, preventative medications, and safer sex resources. Moreover, mental health support, especially vital for the low-income LGBTQ+ community, is woven into the fabric of this project.
 
-Why are we doing this? The answer lies in our unwavering dedication to inclusivity and empowerment. Love Lift Thrive is driven by the belief that everyone, regardless of their circumstances, deserves access to essential resources and mental health support. This event is a celebration of resilience, a stand against judgment, and a testament to the strength of a united community.
+The answer lies in our unwavering dedication to inclusivity and empowerment. Love Lift Thrive is driven by the belief that everyone, regardless of their circumstances, deserves access to essential resources and mental health support. This event is a celebration of resilience, a stand against judgment, and a testament to the strength of a united community.
 
-Where and when does this transformation occur? Love Lift Thrive unfolds in the vibrant heart of Oakland, symbolizing our commitment to local communities. The dates, set on December 8th, 9th, and 10th, mark a season of empowerment, aligning with the festive spirit while addressing critical needs. Join us on this journey, as Love Lift Thrive becomes a catalyst for change, fostering a community where everyone can not only survive but thrive.
+Love Lift Thrive unfolds in the vibrant heart of Oakland, symbolizing our commitment to local communities. The dates, set on December 8th, 9th, and 10th, mark a season of empowerment, aligning with the festive spirit while addressing critical needs. Join us on this journey, as Love Lift Thrive becomes a catalyst for change, fostering a community where everyone can not only survive but thrive.
 
 ### Figma Wireframe Link
-<img src="development/WireFrame.png" align="center" style="height: 600px; width: 900px"/>     
+<img src="development/WireFrame.png" align="center" style="height: 600px; width: 900px"/> 
+<img src="development/EventPosters.png" align="center" style="height: 600px; width: 900px"/>   
+<img src="development/Merchandise_Figma.png.png" align="center" style="height: 600px; width: 900px"/>       
 
 [Figma Wireframe Link](https://www.figma.com/file/ONe25HoONoGTNVPneH01bS/Untitled?type=design&node-id=0%3A1&mode=design&t=IfXSeqP9UH2ypvZZ-1)
 
@@ -47,3 +49,6 @@ The third and final page is dedicated to merchandise, embodying the spirit of Lo
 ### Fonts 
 #### Adobe Font
 <li> https://fonts.adobe.com/ </li> 
+
+### Development
+This repository contains the original Adobe Illustrator and Figma files used to create the assets.
