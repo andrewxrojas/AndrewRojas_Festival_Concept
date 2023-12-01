@@ -8,6 +8,7 @@
       <!-- add font stylesheet here -->
       <link rel="stylesheet" href="https://use.typekit.net/mjm7wfc.css">
       <link rel="stylesheet" href="css/styleSheet.css">
+      
    </head>
    <body>
       <img id="logo" src="img/FinalLogo.png" alt="Love Lift Thrive">
@@ -30,28 +31,44 @@
       <div class="parentOne">
          <div class="event">
             <img src="img/HealthandWellnessExpo.png" alt="Health and Welness Expo Poster">
-            <h2>Day 1</h2>
-            <h5>Health and Wellness Expo</h5>
+            <div class="popup" onclick="myFunction()">Click Here!
+               <span class="popuptext" id="myPopup">
+            <h3>Day 1</h3>
+            <h2>Health and Wellness Expo</h2>
             <p>Visit our Health and Wellness Expo to learn about LGBTQ-focused healthcare 
                services, get free health screenings, and speak with healthcare professionals.
-               Discover the resources available at the Glenn Burke Wellness Clinic and how we 
+               Discover the resources available at the Glenn Burke Wellness Clinic and how we
                can support your well-being.
             </p>
+            <h4><br>Date: 12/08/2023</h4>
+            <h4>Time: 10:00 AM - 5:00 PM</h4>  
+            <br>
+         </span>
+             </div>
          </div>
          <div class="event">
             <img src="img/FoodPantry.png" alt="Holiday Meal Drive Poster">
-            <h2>Day 1</h2>
-            <h5>Holiday Meal Drive</h5>
+            <div class="popup1" onclick="myFunction1()">Click Here!
+               <span class="popuptext1" id="myPopup1">
+            <h3>Day 1</h3>
+            <h2>Holiday Meal Drive</h2>
             <p>Join us for a day of collecting non-perishable food items, holiday meals, and 
                canned goods to support our LGBTQ community members during the festive season. 
                Donations can be dropped off at the Oakland LGBTQ Center from 10:00 AM to 3:00 PM. 
                Let's come together to ensure everyone has a warm and delicious meal during the holidays.
             </p>
+            <h4><br>Date: 12/08/2023</h4>   
+            <h4>Time: 10:00 AM - 3:00 PM</h4>
+            <br>
+         </span>
+      </div>
          </div>
          <div class="event">
             <img src="img/WinterWellnessWorkshop.png" alt="Winter Wellness Workshop Poster">
-            <h2>Day 2</h2>
-            <h5>Winter Wellness Workshop</h5>
+            <div class="popup2" onclick="myFunction2()">Click Here!
+               <span class="popuptext2" id="myPopup2">
+            <h3>Day 2</h3>
+            <h2>Winter Wellness Workshop</h2>
             <p>Join us for a two-part event at the center from 1:00 PM to 5:00 PM. Participate 
                in an interactive workshop focusing on self-care strategies tailored to the LGBTQ 
                community, learning techniques to enhance physical and mental well-being. Additionally, 
@@ -59,20 +76,34 @@
                blankets, and personal care items to LGBTQ individuals in need, ensuring everyone 
                stays warm and comfortable this winter.
             </p>
+            <h4><br>Date: 12/09/2023</h4>   
+            <h4>Time: 1:00 PM - 5:00 PM</h4>
+            <br>
+         </span>
+      </div>
          </div>
          <div class="event">
             <img src="img/MentalHealthPanel.png" alt="Mental Health Panel Poster">
-            <h2>Day 3</h2>
-            <h5>Mental Health Awareness Panel</h5>
+            <div class="popup3" onclick="myFunction3()">Click Here!
+               <span class="popuptext3" id="myPopup3">
+            <h3>Day 3</h3>
+            <h2>Mental Health Awareness Panel</h2>
             <p>Gain insights into LGBTQ mental health issues by attending our panel 
                discussion featuring mental health experts, advocates, and individuals 
                who have overcome mental health challenges. Let's break the stigma and 
                create a more compassionate and informed community.
             </p>
+            <h4><br>Date: 12/10/2023</h4>   
+            <h4>Time: 2:00 PM - 4:00 PM</h4>
+            <br>
+         </span>
          </div>
+      </div>
          <div class="event">
             <img src="img/MentalHealthExpo.png" alt="Mental Wellness Expo">
-            <h2>Day 3</h2>
+            <div class="popup4" onclick="myFunction4()">Click Here!
+               <span class="popuptext4" id="myPopup4">
+            <h3>Day 3</h3>
             <h5>Peer Support Group</h5>
             <p>Connect with others in the LGBTQ community who are facing similar mental health challenges. 
                This peer support group provides a safe and inclusive space to share experiences, provide 
@@ -80,8 +111,44 @@
                way to feel understood and supported. This event offers participants the chance to prioritize 
                self-care and even choose a licensed therapist who best suits their needs.
             </p>
+            <h4><br>Date: 12/10/2023</h4>   
+            <h4>Time: 10:00 AM - 5:00 PM</h4>
+            <br>
+         </span>
          </div>
       </div>
+      <script>
+         function myFunction() {
+           var popup = document.getElementById("myPopup");
+           popup.classList.toggle("show");
+         }
+         </script>
+      <script>
+         function myFunction1() {
+           var popup1 = document.getElementById("myPopup1");
+           popup1.classList.toggle("show");
+         }
+         </script>    
+      <script>
+         function myFunction2() {
+           var popup2 = document.getElementById("myPopup2");
+           popup2.classList.toggle("show");
+         }
+         </script>    
+      <script>
+         function myFunction3() {
+           var popup3 = document.getElementById("myPopup3");
+           popup3.classList.toggle("show");
+         }
+         </script>    
+      <script>
+         function myFunction4() {
+           var popup4 = document.getElementById("myPopup4");
+           popup4.classList.toggle("show");
+         }
+         </script>    
+         </div>
+                                
       <footer>
          <ul>
             <li><a href="../index.html">Home</a></li>
