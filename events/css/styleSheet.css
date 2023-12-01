@@ -74,7 +74,6 @@ h5 {
     font-weight: 600;
     font-style: normal;
     color: #2b3990;
- 
     margin-bottom: 5%;
  }
 
@@ -172,10 +171,10 @@ h5 {
  }
  
  #logo {
-    height: 2.3%;
+    height: 2.8%;
     width: 10%;  
     position: absolute; 
-    bottom:97.3%; 
+    bottom:96.7%; 
     left: 2%;
  }
  
@@ -325,9 +324,9 @@ h5 {
 
     #logo {
         width: 20%;
-        height: 1.2%;
+        height: 1.6%;
         position: absolute; 
-        top: 0.48%;
+        top: .7%;
         left: 2%; 
     }
 
