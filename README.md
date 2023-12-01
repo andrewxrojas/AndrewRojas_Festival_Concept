@@ -46,6 +46,10 @@ The third and final page is dedicated to merchandise, embodying the spirit of Lo
 #### Oakland LGBTQ Center Community Resources
 <li>https://www.oaklandlgbtqcenter.org/community-resources</li>
 
+#### How TO - Pop Up 
+<li>https://www.w3schools.com/howto/howto_js_popup.asp<li>
+
+
 ### Fonts
 #### Adobe Font
 <li> https://fonts.adobe.com/ </li>
