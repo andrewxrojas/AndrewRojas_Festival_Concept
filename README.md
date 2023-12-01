@@ -49,10 +49,9 @@ The third and final page is dedicated to merchandise, embodying the spirit of Lo
 #### How TO - Pop Up 
 <li>https://www.w3schools.com/howto/howto_js_popup.asp<li>
 
-
 ### Fonts
 #### Adobe Font
-<li> https://fonts.adobe.com/ </li>
+<li>https://fonts.adobe.com/</li>
 
 ### Development
 This repository contains the original Adobe Illustrator and Figma files used to create the assets.
