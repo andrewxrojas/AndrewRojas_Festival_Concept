@@ -202,6 +202,7 @@ footer a {
 
 	.btn {
 		font-size: 1em;
+		top: 90%;
 	}
 
 	.hero-image {
@@ -234,7 +235,6 @@ footer a {
 	}
 
 	.pageContent {
-		margin-top: 5%;
 		width: 100%;
 		padding-right: 20%;
 
