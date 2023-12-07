@@ -19,6 +19,11 @@ Love Lift Thrive unfolds in the vibrant heart of Oakland, symbolizing our commit
 
 [Figma Wireframe Link](https://www.figma.com/file/ONe25HoONoGTNVPneH01bS/Untitled?type=design&node-id=0%3A1&mode=design&t=IfXSeqP9UH2ypvZZ-1)
 
+#### Adobe Illustrator Designs created by me
+<img src="development/EventPosters.png" align="center" style="height: 600px; width: 900px"/> 
+<img src="development/FinalLogo.png" align="center" style="height: 300px; width: 300px"/> 
+<img src="development/HWLogo.png" align="center" style="height: 300px; width: 300px"/> 
+<img src="development/HeroPageBlue2.png" align="center" style="height: 600px; width: 900px"/> 
 
 # Technical overview
 In the development of Love Lift Thrive's online presence, my technical approach centers on creating a three-page website using HTML and CSS. This choice not only ensures a positive user experience but also provides a solid foundation for versatile content presentation. The 'how' of this technical implementation emphasizes user-friendliness and interactivity, reflecting the core values of Love Lift Thrive.
@@ -48,6 +53,9 @@ The third and final page is dedicated to merchandise, embodying the spirit of Lo
 
 #### How TO - Pop Up 
 <li>https://www.w3schools.com/howto/howto_js_popup.asp</li>
+
+#### How to make a Hero Image HTML and CSS?
+<li>https://www.geeksforgeeks.org/how-to-create-a-hero-image-using-html-and-css/</li>
 
 ### Fonts
 #### Adobe Font
