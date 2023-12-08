@@ -141,7 +141,7 @@ a:hover {
 }
 
 .pageContent {
-	background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6)),url(../img/Background.png);
+	background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6)), url(../img/Background.png);
 	background-color: rgb(18, 18, 18);
 	background-size: cover;
 	border: 2px solid (18, 18, 18);
@@ -190,30 +190,29 @@ footer a {
 
 
 @media screen and (max-width: 800px) {
-	
+
 	.hero-title {
 		text-align: center;
-		transform: translate(20%,120%);
+		transform: translate(20%, 120%);
 		font-size: .5em;
 	}
-	
-	
+
+
 	.hero-text {
 		text-align: left;
-		transform: translate(-50%,-17%);
+		transform: translate(-50%, -17%);
 		font-size: 1em;
 	}
 
- 
-	h1{
-		transform: translate(-20%,-80%)
 
+	h1 {
+		transform: translate(-20%, -80%)
 	}
 
 	.btn {
 		font-size: 2em;
 		top: 90%;
-		transform: translate(50%,-50%);
+		transform: translate(50%, -50%);
 	}
 
 	.hero-image {
@@ -246,13 +245,13 @@ footer a {
 	}
 
 	.pageContent {
-		background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)),url(../img/Background.png);
+		background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)), url(../img/Background.png);
 		width: 100%;
 		padding-right: 20%;
 		font-size: .6em;
 		padding-left: 20%;
 	}
- 
+
 
 	#logo {
 		width: 20%;
