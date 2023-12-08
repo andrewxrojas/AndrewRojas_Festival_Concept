@@ -104,6 +104,55 @@ img {
 	width: 100%;
 }
 
+.btn, .btn1, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn8, .btn9, .btn10, .btn11 {
+	position: absolute;
+	background-color: #0a0a0a;
+	color: black;
+	padding: 16px 30px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+	text-align: center;
+	font-family: "degular", sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: .8em;
+}
+
+.btn{
+	transform: translate(78%, -50%);
+ 
+}
+
+.btn1 {
+	transform: translate(80%,-160%);
+}
+.btn2 {
+	transform: translate(80%,-60%);
+}
+.btn3, .btn4, .btn5 {
+	transform: translate(80%,-140%);
+}
+
+.btn6, .btn7 {
+	transform: translate(80%,-100%);
+}
+.btn8 {
+	transform: translate(80%,-155%);
+}
+
+.btn9 {
+	transform: translate(80%,-170%);
+}
+.btn10, .btn11 {
+	transform: translate(80%,-155%);
+}
+
+.btn:hover, .btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover, .btn5:hover, .btn6:hover, .btn7:hover, .btn8:hover, .btn9:hover, .btn10:hover, .btn11:hover {
+	background-color: rgb(225, 31, 146);
+	color: white;
+}
+
 
 #logo {
 	height: 2.7%;
@@ -158,9 +207,14 @@ footer a {
 		width: 100%;
 	}
 
-	.child {
+	.child{
 		margin-top: 5%;
 		width: 100%;
+	}
+
+	.btn, .btn1, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn8, .btn9, .btn10, .btn11 {
+		transform: translate(70%, 100%);
+		top: 74%;
 	}
 
 	h2 {
