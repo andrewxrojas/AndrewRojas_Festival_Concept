@@ -141,6 +141,7 @@ a:hover {
 }
 
 .pageContent {
+	background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)),url(../img/Background.png);
 	background-color: rgb(18, 18, 18);
 	border: 2px solid (18, 18, 18);
 	width: 100%;
@@ -245,6 +246,7 @@ footer a {
 	}
 
 	.pageContent {
+		background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4)),url(../img/Background.png);
 		width: 100%;
 		padding-right: 20%;
 		font-size: .6em;
