@@ -141,7 +141,7 @@ a:hover {
 }
 
 .pageContent {
-	background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.6)), url(../img/Background.png);
+	background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)), url(../img/Background.png);
 	background-color: rgb(18, 18, 18);
 	background-size: cover;
 	border: 2px solid (18, 18, 18);
