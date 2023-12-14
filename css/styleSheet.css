@@ -94,6 +94,10 @@ a:hover {
 .btn {
 	position: absolute;
 	transform: translate(-70%, -50%);
+	-webkit-transform: translate(-70%, -50%);
+	-moz-transform: translate(-70%, -50%);
+	-o-transform: translate(-70%, -50%);
+	-ms-transform: translate(-70%, -50%);
 	background-color: #f1f1f1;
 	color: black;
 	padding: 16px 30px;
@@ -127,6 +131,10 @@ a:hover {
 	top: 50%;
 	left: 30%;
 	transform: translate(-50%, -45%);
+	-webkit-transform: translate(-50%, -45%);
+	-moz-transform: translate(-50%, -45%);
+	-o-transform: translate(-50%, -45%);
+	-ms-transform: translate(-50%, -45%);
 	color: white;
 	font-family: "degular", sans-serif;
 	font-weight: 600;
