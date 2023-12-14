@@ -57,6 +57,9 @@ The third and final page is dedicated to merchandise, embodying the spirit of Lo
 #### How to make a Hero Image HTML and CSS?
 <li>https://www.geeksforgeeks.org/how-to-create-a-hero-image-using-html-and-css/</li>
 
+#### How To - Full Width ( Block) Buttons
+<li>https://www.w3schools.com/howto/howto_css_block_buttons.asp</li>
+
 ### Fonts
 #### Adobe Font
 <li>https://fonts.adobe.com/</li>

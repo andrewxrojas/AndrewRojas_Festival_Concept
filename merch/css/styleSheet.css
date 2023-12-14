@@ -120,32 +120,35 @@ img {
 }
 
 .btn{
-	transform: translate(78%, -50%);
+	transform: translate(50%, -125%);
  
 }
 
 .btn1 {
-	transform: translate(80%,-160%);
+	transform: translate(50%,-160%);
 }
 .btn2 {
-	transform: translate(80%,-60%);
+	transform: translate(50%,-65%);
 }
-.btn3, .btn4, .btn5 {
-	transform: translate(80%,-140%);
+.btn3, .btn5 {
+	transform: translate(50%,-140%);
+}
+.btn4 {
+	transform: translate(50%,-80%);
 }
 
 .btn6, .btn7 {
-	transform: translate(80%,-100%);
+	transform: translate(50%,-100%);
 }
 .btn8 {
-	transform: translate(80%,-155%);
+	transform: translate(50%,-143%);
 }
 
 .btn9 {
-	transform: translate(80%,-170%);
+	transform: translate(50%,-125%);
 }
 .btn10, .btn11 {
-	transform: translate(80%,-155%);
+	transform: translate(50%,-155%);
 }
 
 .btn:hover, .btn1:hover, .btn2:hover, .btn3:hover, .btn4:hover, .btn5:hover, .btn6:hover, .btn7:hover, .btn8:hover, .btn9:hover, .btn10:hover, .btn11:hover {
@@ -155,10 +158,10 @@ img {
 
 
 #logo {
-	height: 2.7%;
-	width: 10%;
+	height: 2.5%;
+	width: 9%;
 	position: absolute;
-	bottom: 96.5%;
+	bottom: 96.9%;
 	left: 2%;
 }
 
@@ -212,8 +215,18 @@ footer a {
 		width: 100%;
 	}
 
-	.btn, .btn1, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn8, .btn9, .btn10, .btn11 {
+	.btn, .btn1, .btn6, .btn7, .btn8, .btn9, .btn10, .btn11 {
 		transform: translate(70%, 100%);
+		top: 74%;
+	}
+
+	.btn2{
+		transform: translate(70%, 80%);
+		top: 74%;
+	}
+
+	.btn3, .btn4,  .btn5 {
+		transform: translate(70%, 70%);
 		top: 74%;
 	}
 

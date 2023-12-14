@@ -1,5 +1,4 @@
 * {
-
 	margin: 0;
 	padding: 0;
 	box-sizing:
@@ -18,10 +17,10 @@ html {
 }
 
 h1 {
-	font-size: 3em;
+	font-size: 2.8em;
 	font-family: "degular", sans-serif;
 	font-weight: 600;
-	transform: translate(-18%, 70%);
+	transform: translate(-20%, 30%);
 	font-style: normal;
 	color: #ffffff;
 	text-align: center;
@@ -94,7 +93,7 @@ a:hover {
 
 .btn {
 	position: absolute;
-	transform: translate(-70%, 50%);
+	transform: translate(-70%, -50%);
 	background-color: #f1f1f1;
 	color: black;
 	padding: 16px 30px;
@@ -109,7 +108,7 @@ a:hover {
 }
 
 .btn:hover {
-	background-color: black;
+	background-color: rgb(225, 31, 146);
 	color: white;
 }
 
@@ -127,7 +126,7 @@ a:hover {
 	position: absolute;
 	top: 50%;
 	left: 30%;
-	transform: translate(-44%, -50%);
+	transform: translate(-50%, -45%);
 	color: white;
 	font-family: "degular", sans-serif;
 	font-weight: 600;
@@ -158,8 +157,8 @@ img {
 }
 
 #logo {
-	height: 9%;
-	width: 10%;
+	height: 9.5%;
+	width: 9%;
 	position: absolute;
 	bottom: 88%;
 	left: 2%;
@@ -191,6 +190,12 @@ footer a {
 
 @media screen and (max-width: 800px) {
 
+
+	h1 {
+		transform: translate(-20%, -115%)
+	}
+
+
 	.hero-title {
 		text-align: center;
 		transform: translate(20%, 120%);
@@ -200,19 +205,14 @@ footer a {
 
 	.hero-text {
 		text-align: left;
-		transform: translate(-50%, -17%);
+		transform: translate(-45%, -30%);
 		font-size: 1em;
-	}
-
-
-	h1 {
-		transform: translate(-20%, -80%)
 	}
 
 	.btn {
 		font-size: 2em;
 		top: 90%;
-		transform: translate(50%, -50%);
+		transform: translate(30%, -70%);
 	}
 
 	.hero-image {
@@ -255,9 +255,9 @@ footer a {
 
 	#logo {
 		width: 20%;
-		height: 7%;
+		height: 8%;
 		position: absolute;
-		top: 3%;
+		top: 3.5%;
 		left: 2%;
 	}
 
